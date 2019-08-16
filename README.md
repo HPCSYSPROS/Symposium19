@@ -6,9 +6,9 @@
 
 
 ### [Deploying and Managing an OnDemand Instance](Johnson-SYSPROS-Symp19.pdf) 
-**Presented by:** Doug Johnson and Trey Dockendorf, Ohio Supercomputing Center
+**Presented by:** Doug Johnson and Trey Dockendorf, [Ohio Supercomputing Center](https://www.osc.edu/)
 ### [Best Practices for Writing an RFP for the Acquisition of HPC Equipment](Sheumaker-SYSPROS-Symp19.pdf) 
-**Presented by:** Kyle Sheumaker, Advanced Clustering Technologies
-### [Building and Operating Jetstream](Lowe-SYSPROS-Symp19.pdf) 
-**Presented by:** John Michael Lowe, Indiana University
+**Presented by:** Kyle Sheumaker, [Advanced Clustering Technologies](https://www.advancedclustering.com/)
+### [Building and Operating Jetstream](Lowe-SYSPROS-Symp19.pdf)
+**Presented by:** John Michael Lowe, [Indiana University](https://rt.iu.edu/)
 
